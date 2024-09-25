@@ -17,7 +17,9 @@ This project provides tools with easy access for fine-tuning and using a profess
 
 ### Training Notebook
 
-1. Open the training notebook in this repo and click to open it using Google Colab.
+[Open In Colab](https://colab.research.google.com/github/p3bozuric/headshot_generator/blob/main/headshot_generator_finetuning.ipynb)
+
+1. Open the training notebook by clicking "Open In Colab" above.
 2. Ensure you're using a runtime with a GPU (preferably A100).
 3. Mount your Google Drive.
 4. Set up your project configuration like file outputs,..
@@ -26,7 +28,9 @@ This project provides tools with easy access for fine-tuning and using a profess
 
 ### Inference Notebook
 
-1. Open the inference notebook in this repo and click to open it using Google Colab.
+[Open In Colab](https://colab.research.google.com/github/p3bozuric/headshot_generator/blob/main/headshot_generator_inference.ipynb)
+
+1. Open the inference notebook by clicking "Open In Colab" above.
 2. Ensure you're using a runtime with a GPU (preferably A100).
 3. Mount your Google Drive.
 4. Load your fine-tuned model.

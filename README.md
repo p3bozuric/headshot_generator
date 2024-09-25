@@ -15,7 +15,7 @@ This project provides tools with easy access for fine-tuning and using a profess
 
 ### Training Notebook
 
-1. Open the training notebook in Google Colab.
+1. Open the training notebook in this repo and click to open it using Google Colab.
 2. Ensure you're using a runtime with a GPU (preferably A100).
 3. Mount your Google Drive.
 4. Set up your project configuration like file outputs,..
@@ -24,7 +24,7 @@ This project provides tools with easy access for fine-tuning and using a profess
 
 ### Inference Notebook
 
-1. Open the inference notebook in Google Colab.
+1. Open the inference notebook in this repo and click to open it using Google Colab.
 2. Ensure you're using a runtime with a GPU (preferably A100).
 3. Mount your Google Drive.
 4. Load your fine-tuned model.

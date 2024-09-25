@@ -54,7 +54,6 @@ Please refer to the full license for complete terms and conditions.
 ## Acknowledgments
 
 - Black Forest Labs for the FLUX.1-dev model
-- The Hugging Face team for their transformers library
 - lucataco for his cog-ai-toolkit
 
 ## Disclaimer

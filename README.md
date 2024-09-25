@@ -1,5 +1,7 @@
 # No-Code Headshot Generator
 
+![grid](assets/headshot_generator.png)
+
 This project provides tools with easy access for fine-tuning and using a professional headshot generator based on the FLUX.1-dev model. It consists of two main components:
 
 1. A training notebook for fine-tuning the model

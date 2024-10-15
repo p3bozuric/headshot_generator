@@ -60,7 +60,7 @@ Please refer to the full license for complete terms and conditions.
 ## Acknowledgments
 
 - Black Forest Labs for the FLUX.1-dev model
-- lucataco for his cog-ai-toolkit
+- Ostris for ai-toolkit
 
 ## Disclaimer
 
